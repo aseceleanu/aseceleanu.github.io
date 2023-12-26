@@ -14,10 +14,29 @@ I have been awarded the 2018 [Harold & Esther Edgerton Junior Faculty Award](htt
 
 I co-organize the workshops[ Women in Commutative Algebra II](https://mathstat.dal.ca/~faridi/WICAII) at CIRM Trento on October 16-20, 2023 and [Women in Commutative Algebra III](https://mathstat.dal.ca/~faridi/WICAIII) at CMO Oaxaca June 2-7, 2024.
 
-In the news: (When life gives you lemons, make mathematicians)(https://www.ams.org/journals/notices/202103/rnoti-p375.pdf), an article in the Notices of the AMS about the Polymath program - a large scale online REU I mentor.
+In the news: [When life gives you lemons, make mathematicians)(https://www.ams.org/journals/notices/202103/rnoti-p375.pdf], an article in the Notices of the AMS about the Polymath program - a large scale online REU I mentor.
 
 My Students
 ========
+
+Graduate students:
+
+<\ul>
+<\li> Ben Drabkin - PhD 2020</li>
+<\li>Andrew Conner - MA 2020</li>
+<\li>Erica Hopkins (co-advised with Mark Walker) - PhD 2021</li>
+<\li>Michael DeBellevue (co-advised with Mark Walker) - PhD 2022</li>
+<\li>Shah Roshan Zamir - Ben Carse Noltig award (2021-2022)</li>
+<\li>Juliann Geraci - Don Miller Outstanding GTA award (2022-2023)</li>
+</ul>
+
+Undergraduate students:
+
+<\ul>
+<\li> Joey Becker ? Chair?s prize for best graduating math major (2015)</li>
+<\li> Diana (Xuehua) Zhong - graduate student at North Carolina State University (since 2018)</li>
+</ul>
+
 
 
 A data-driven personal website
