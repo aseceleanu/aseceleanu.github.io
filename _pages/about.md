@@ -21,19 +21,20 @@ My Students
 
 Graduate students:
 ----------------
-*  Ben Drabkin - PhD 2020
-2. Andrew Conner - MA 2020
-3. Erica Hopkins (co-advised with Mark Walker) - PhD 2021
-4. Michael DeBellevue (co-advised with Mark Walker) - PhD 2022
-5. Shah Roshan Zamir - Ben Carse Noltig award (2021-2022)
-6. Juliann Geraci - Don Miller Outstanding GTA award (2022-2023)
+*  [Ben Drabkin](https://www.math.unl.edu/~bdrabkin2/) - PhD 2020
+* [Andrew Conner](https://youtu.be/j368pBapgRE) - MA 2020
+* Erica Hopkins (co-advised with Mark Walker) - PhD 2021
+* [Michael DeBellevue](https://mpdebell.expressions.syr.edu) (co-advised with Mark Walker) - PhD 2022
+* [Nik Kuzmanovski](https://www.nkuzmanovski.com) (co-advised with Jamie Radcliffe) - G.C and W.H Young award (2022-2023)
+* [Shah Roshan Zamir](https://sroshanzamir2.github.io/index.html) - Ben Carse Noltig award (2021-2022), Bill Leavitt award (2023-2024)
+* [Juliann Geraci](https://julianngeraci.github.io) - Don Miller Outstanding GTA award (2022-2023)
 
 
 Undergraduate students:
 ------------------
-1. Joey Becker ? Chair?s prize for best graduating math major (2015)
-2. Diana (Xuehua) Zhong - graduate student at North Carolina State University (since 2018)
-3. Helen Holand - honors thesis in progress.
+* Joey Becker - Chair's prize for best graduating math major (2015)
+* Diana (Xuehua) Zhong - graduate student at North Carolina State University (since 2018)
+* Helen Holand - honors thesis in progress.
 
 
 Undergraduate Activities
