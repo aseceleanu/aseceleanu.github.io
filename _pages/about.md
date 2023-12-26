@@ -38,7 +38,7 @@ My Students
 Undergraduate Activities
 ======
 
-I have mentored a team of students working in the [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) programs of 2020, 2021, and 2023. This wonderful group of students produced four of the papers listed below.
+I have mentored a team of students working in the [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) large-scale undergraduate research programs of 2020, 2021, and 2023. This wonderful group of students produced four [papers](\https://aseceleanu.github.io/papers) papers listed.
 
 In co-organize the [Central States Mathematics Undergraduate Research Conference](https://math.unl.edu/events/cesmur) in partnership with colleagues at Kansas State University.
 
