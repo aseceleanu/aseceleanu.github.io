@@ -19,8 +19,7 @@ In the news: [When life gives you lemons, make mathematicians](https://www.ams.o
 My Students
 ========
 
-Graduate students:
-----------------
+**Graduate students:**
 *  [Ben Drabkin](https://www.math.unl.edu/~bdrabkin2/) - PhD 2020
 * [Andrew Conner](https://youtu.be/j368pBapgRE) - MA 2020
 * Erica Hopkins (co-advised with Mark Walker) - PhD 2021
@@ -28,10 +27,7 @@ Graduate students:
 * [Nik Kuzmanovski](https://www.nkuzmanovski.com) (co-advised with Jamie Radcliffe) - G.C. & W.H. Young award (2022-2023)
 * [Shah Roshan Zamir](https://sroshanzamir2.github.io/index.html) - Ben Carse Noltig award (2021-2022), Bill Leavitt award (2023-2024)
 * [Juliann Geraci](https://julianngeraci.github.io) - Don Miller Outstanding GTA award (2022-2023)
-
-
-Undergraduate students:
-------------------
+**Undergraduate students:**
 * Joey Becker - Chair's prize for best graduating math major (2015)
 * Diana (Xuehua) Zhong - graduate student at North Carolina State University (since 2018)
 * Helen Holand - honors thesis in progress.
