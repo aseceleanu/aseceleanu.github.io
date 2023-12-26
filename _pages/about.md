@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: single
 title: "Alexandra Seceleanu"
 excerpt: "About me"
 author_profile: true
