@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: archive
-title: "Alexandra Seceleanu"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
