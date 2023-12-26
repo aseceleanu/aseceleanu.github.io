@@ -83,11 +83,11 @@ author:
   name             : "Alexandra Seceleanu"
   avatar           : "Seceleanu.jpg"
   bio              : "My profile:"
-  location         : "[University of Nebraska-Lincoln](https://math.unl.edu/alexandra-seceleanu)"
-  employer         :
+  location         : "University of Nebraska-Lincoln"
+  employer         :"https://math.unl.edu/alexandra-seceleanu"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Qs-4y7NCWQgC&hl=en"
-  email            :
+  email            : "aseceleanu@unl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
