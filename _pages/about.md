@@ -25,7 +25,7 @@ Graduate students:
 * [Andrew Conner](https://youtu.be/j368pBapgRE) - MA 2020
 * Erica Hopkins (co-advised with Mark Walker) - PhD 2021
 * [Michael DeBellevue](https://mpdebell.expressions.syr.edu) (co-advised with Mark Walker) - PhD 2022
-* [Nik Kuzmanovski](https://www.nkuzmanovski.com) (co-advised with Jamie Radcliffe) - G.C and W.H Young award (2022-2023)
+* [Nik Kuzmanovski](https://www.nkuzmanovski.com) (co-advised with Jamie Radcliffe) - G.C. & W.H. Young award (2022-2023)
 * [Shah Roshan Zamir](https://sroshanzamir2.github.io/index.html) - Ben Carse Noltig award (2021-2022), Bill Leavitt award (2023-2024)
 * [Juliann Geraci](https://julianngeraci.github.io) - Don Miller Outstanding GTA award (2022-2023)
 
