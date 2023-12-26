@@ -10,11 +10,11 @@ redirect_from:
 
 I am an associate professor of mathematics at the University of Nebraska-Lincoln. My research focuses on commutative algebra with a geometric and computational flavor.
 
-I have been awarded the 2018 [Harold & Esther Edgerton Junior Faculty Award]{https://executivevc.unl.edu/faculty/evaluation-recognition/awards/edgerton} for creative research, extraordinary teaching abilities, and academic promise.
+I have been awarded the 2018 [Harold & Esther Edgerton Junior Faculty Award](https://executivevc.unl.edu/faculty/evaluation-recognition/awards/edgerton) for creative research, extraordinary teaching abilities, and academic promise.
 
-I co-organize the workshops[ Women in Commutative Algebra II]{https://mathstat.dal.ca/~faridi/WICAII} at CIRM Trento on October 16-20, 2023 and [Women in Commutative Algebra III]{https://mathstat.dal.ca/~faridi/WICAIII} at CMO Oaxaca June 2-7, 2024.
+I co-organize the workshops[ Women in Commutative Algebra II](https://mathstat.dal.ca/~faridi/WICAII) at CIRM Trento on October 16-20, 2023 and [Women in Commutative Algebra III](https://mathstat.dal.ca/~faridi/WICAIII) at CMO Oaxaca June 2-7, 2024.
 
-In the news: (When life gives you lemons, make mathematicians){https://www.ams.org/journals/notices/202103/rnoti-p375.pdf}, an article in the Notices of the AMS about the Polymath program - a large scale online REU I mentor.
+In the news: (When life gives you lemons, make mathematicians)(https://www.ams.org/journals/notices/202103/rnoti-p375.pdf), an article in the Notices of the AMS about the Polymath program - a large scale online REU I mentor.
 
 My Students
 ========
