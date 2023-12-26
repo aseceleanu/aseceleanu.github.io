@@ -27,6 +27,7 @@ My Students
 * [Nik Kuzmanovski](https://www.nkuzmanovski.com) (co-advised with Jamie Radcliffe) - G.C. & W.H. Young award (2022-2023)
 * [Shah Roshan Zamir](https://sroshanzamir2.github.io/index.html) - Ben Carse Noltig award (2021-2022), Bill Leavitt award (2023-2024)
 * [Juliann Geraci](https://julianngeraci.github.io) - Don Miller Outstanding GTA award (2022-2023)
+
 **Undergraduate students:**
 * Joey Becker - Chair's prize for best graduating math major (2015)
 * Diana (Xuehua) Zhong - graduate student at North Carolina State University (since 2018)
@@ -35,6 +36,12 @@ My Students
 
 Undergraduate Activities
 ======
+
+I have mentored a team of students working in the [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) programs of 2020, 2021, and 2023. This wonderful group of students produced four of the papers listed below.
+
+In co-organize the [Central States Mathematics Undergraduate Research Conference](https://math.unl.edu/events/cesmur) in partnership with colleagues at Kansas State University.
+
+I am the founder and director of the [Nebraska Experiential Mathematics and Outreach (NEMO) Lab]{https://aseceleanu.github.io/NEMO} affiliated with the [Geometry Labs United]{https://geometrylabs.net}  network.
 
 Videos from Selected Talks
 ======
