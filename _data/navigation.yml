@@ -1,7 +1,6 @@
 # main links links
 main:
-
- - title: "CV"
+    - title: "CV"
     url: /cv/
     
   - title: "Publications"
@@ -16,9 +15,8 @@ main:
   - title: "NEMO"
     url: /portfolio/
         
- - title: "Software"
-   url: /year-archive/
+  - title: "Software"
+    url: /year-archive/
     
-    
- - - title: "Guide"
- -   url: /markdown/
+  - title: "Guide"
+    url: /markdown/
