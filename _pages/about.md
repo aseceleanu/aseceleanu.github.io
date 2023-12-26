@@ -32,7 +32,7 @@ My Students
 **Undergraduate students:**
 * Joey Becker - Chair's prize for best graduating math major (2015)
 * Diana (Xuehua) Zhong - graduate student at North Carolina State University (since 2018)
-* Helen Holand - honors thesis in progress.
+* Helena Holland - honors thesis in progress.
 
 
 Undergraduate Activities
