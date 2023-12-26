@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alexandra Seceleanu"
   avatar           : "Seceleanu.jpg"
-#  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Profile"
   location         : "University of Nebraska-Lincoln"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
