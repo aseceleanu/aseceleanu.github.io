@@ -14,10 +14,10 @@ main:
     url: /teaching/    
     
   - title: "NEMO"
-    url: /NEMO/
+    url: /portfolio/
         
-  - title: "Software"
-    url: /software/
+ - title: "Software"
+   url: /year-archive/
     
     
  - - title: "Guide"
