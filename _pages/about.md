@@ -21,13 +21,13 @@ My Students
 
 Graduate students:
 ----------------
-1.  Ben Drabkin - PhD 2020
+*  Ben Drabkin - PhD 2020
 2. Andrew Conner - MA 2020
 3. Erica Hopkins (co-advised with Mark Walker) - PhD 2021
 4. Michael DeBellevue (co-advised with Mark Walker) - PhD 2022
 5. Shah Roshan Zamir - Ben Carse Noltig award (2021-2022)
 6. Juliann Geraci - Don Miller Outstanding GTA award (2022-2023)
-</ul>
+
 
 Undergraduate students:
 ------------------
