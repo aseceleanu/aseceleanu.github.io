@@ -42,7 +42,7 @@ I have mentored a team of students working in the [Polymath Jr.](https://geometr
 
 In co-organize the [Central States Mathematics Undergraduate Research Conference](https://math.unl.edu/events/cesmur) in partnership with colleagues at Kansas State University.
 
-I am the founder and director of the [Nebraska Experiential Mathematics and Outreach (NEMO) Lab]{https://aseceleanu.github.io/NEMO) affiliated with the [Geometry Labs United](https://geometrylabs.net)  network.
+I am the founder and director of the [Nebraska Experiential Mathematics and Outreach (NEMO) Lab](https://aseceleanu.github.io/NEMO) affiliated with the [Geometry Labs United](https://geometrylabs.net)  network.
 
 Videos from Selected Talks
 ======
