@@ -44,13 +44,6 @@ In co-organize the [Central States Mathematics Undergraduate Research Conference
 
 I am the founder and director of the [Nebraska Experiential Mathematics and Outreach (NEMO) Lab](https://aseceleanu.github.io/NEMO) affiliated with the [Geometry Labs United](https://geometrylabs.net)  network.
 
-Videos from Selected Talks
-======
-*
-* 
-* 
-*
-
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
