@@ -84,7 +84,7 @@ author:
   avatar           : "Seceleanu.jpg"
   bio              : "My profile:"
   location         : "University of Nebraska-Lincoln"
-  employer         : "https://math.unl.edu/alexandra-seceleanu"
+  employer         : #"https://math.unl.edu/alexandra-seceleanu"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Qs-4y7NCWQgC&hl=en"
   email            : "aseceleanu@unl.edu"
