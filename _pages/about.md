@@ -47,7 +47,7 @@ I am the founder and director of the [Nebraska Experiential Mathematics and Outr
 Videos from Selected Talks
 ======
 
-<a font-weight: bold; color: red> test</a>
+<a href="blank" font-weight: bold; color: red> test</a>
 
 Site-wide configuration
 ------
