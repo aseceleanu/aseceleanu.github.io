@@ -13,10 +13,9 @@ main:
     url: /teaching/    
     
   - title: "NEMO"
-    url: /portfolio/
+    url: /NEMO/
         
   - title: "Software"
-    url: /year-archive/
+    url: /software/
     
-  - title: "Guide"
-    url: /markdown/
+
