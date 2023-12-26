@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: single
+layout: archive
 title: "Alexandra Seceleanu"
 excerpt: "About me"
 author_profile: true
