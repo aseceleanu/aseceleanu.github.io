@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 layout: archive
@@ -15,7 +16,7 @@ We introduce the class of principal symmetric ideals, which are ideals generated
 
 40.     [Duality for asymptotic invariants of graded families] (with M. DiPasquale and T. Nguyen) Advances in Math. 430 (2023), paper no. 109208.
 
-The starting point of this paper is a duality for sequences of natural numbers which interchanges superadditive and subadditive sequences. We show how this duality has natural algebraic consequences in conjunction with the theory of Macaulay inverse systems and how it underpins the reciprocity between two geometric invariants: the Seshadri constant and the asymptotic regularity of a finite set of points in projective space.
+The starting point of this paper is a duality for sequences of natural numbers which interchanges superaditive and subaditive sequences. We show how this duality has natural algebraic consequences in conjunction with the theory of Macaulay inverse systems and how it underpins the reciprocity between two geometric invariants: the Seshadri constant and the asymptotic regularity of a finite set of points in projective space.
 
 39.     [The combinatorial structure of symmetric strongly shifted ideals] (with A. Costantini)
 
