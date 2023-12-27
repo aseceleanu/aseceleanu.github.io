@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 layout: archive
@@ -77,7 +76,7 @@ We paper provide insights into the role of symmetry in studying polynomial funct
 
 We derive the implicit equations for certain parametric surfaces in three-dimensional projective space termed tensor product surfaces. Our method computes the implicit equation for such a surface based on the knowledge of the syzygies of the base point locus of the parametrization by means of constructing an explicit virtual projective resolution.
 
-24. [Betti numbers of symmetric shifted ideals] (with J. Biermann, H. de Alba, F. Galetto, S. Murai, U. Nagel, A. O?Keefe, T. Römer) J. Algebra 560 (2020), 312?342
+24. [Betti numbers of symmetric shifted ideals] (with J. Biermann, H. de Alba, F. Galetto, S. Murai, U. Nagel, A. O?Keefe, T. Romer) J. Algebra 560 (2020), 312?342
 
 We introduce a new class of monomial ideals which we call symmetric shifted ideals. Symmetric shifted ideals are fixed by the natural action of the symmetric group and, within the class of monomial ideals fixed by this action, they can be considered as an analogue of stable monomial ideals within the class of monomial ideals. We show that a symmetric shifted ideal has linear quotients and compute its (equivariant) graded Betti numbers. As an application of this result, we obtain several consequences for graded Betti numbers of symbolic powers of defining ideals of star configurations.
 
