@@ -44,6 +44,7 @@ In co-organize the [Central States Mathematics Undergraduate Research Conference
 
 I am the founder and director of the [Nebraska Experiential Mathematics and Outreach (NEMO) Lab](https://aseceleanu.github.io/NEMO) affiliated with the [Geometry Labs United](https://geometrylabs.net)  network.
 
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=R3zDHoxAq5OBTy-gfeFs1Qk8RO-eivlObLLkP5suk2g&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-VX7690VN85"></script>
 <script>
