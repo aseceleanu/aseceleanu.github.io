@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " Nebraska Experiential Math and Outreach (NEMO) Lab"
+title: "Nebraska Experiential Math and Outreach (NEMO) Lab"
 permalink: /NEMO/
 author_profile: true
 ---
@@ -10,4 +10,4 @@ The mission of the NEMO Lab is to connect undergraduate students at the Universi
 
 Spring 2024
 ---------------
-Project on quantum computation mentored by [Dr. Tefjol Pllaha]. 
+Project on quantum computation mentored by [Dr. Tefjol Pllaha](https://www.math.unl.edu/~tpllaha2/). 
