@@ -5,8 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-Videos from Selected Talks
-------------------------------------
+**Videos from Selected Talks**
+
 
 * [The minimal free resolution of a principal symmetric ideal](https://mediaspace.utah.edu/media/t/1_ou5e80it), Fellowship of the Ring national commutative algebra seminar organized by University of Utah, Oct 2020
 * [Connected sums of Artinian Gorenstein algebras and the Lefschetz properties](http://www.birs.ca/events/2018/5-day-workshops/18w5133/videos/watch/201806281730-Seceleanu.html), Fields institute workshop Lefschetz properties in Algebra, geometry and Combinatorics in Toronto, May 2023
