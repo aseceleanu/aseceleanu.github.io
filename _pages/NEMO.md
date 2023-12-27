@@ -1,8 +1,8 @@
 ---
 permalink: /
 layout: archive
-title: "About me"
-excerpt: "About me"
+title: "NEMO"
+excerpt: "Nebraska Experimental Math and Outreach Lab"
 author_profile: true
 redirect_from: 
   - /about/
