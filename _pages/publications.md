@@ -1,13 +1,10 @@
 ---
-permalink: /
 layout: archive
-title: "Alexandra Seceleanu - Publications"
-excerpt: "Alexandra Seceleanu"
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+
 
 41. [The minimal free resolution of a general principal symmetric ideal] (with M. Harada and L. Sega)
 
