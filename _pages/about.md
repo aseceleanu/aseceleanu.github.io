@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: archive
-title: "Alexandra Seceleanu"
+title: "About me"
 excerpt: "Alexandra Seceleanu"
 author_profile: true
 redirect_from: 
@@ -44,6 +44,6 @@ In co-organize the [Central States Mathematics Undergraduate Research Conference
 
 I am the founder and director of the [Nebraska Experiential Mathematics and Outreach (NEMO) Lab](https://aseceleanu.github.io/NEMO) affiliated with the [Geometry Labs United](https://geometrylabs.net)  network.
 
-
+<div id="clustrmaps-widget"></div>
  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R3zDHoxAq5OBTy-gfeFs1Qk8RO-eivlObLLkP5suk2g"></script>
  
