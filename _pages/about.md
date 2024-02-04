@@ -15,14 +15,12 @@ I have been awarded the 2018 [Harold & Esther Edgerton Junior Faculty Award](htt
 
 I co-organize the workshops[ Women in Commutative Algebra II](https://mathstat.dal.ca/~faridi/WICAII) at CIRM Trento on October 16-20, 2023 and [Women in Commutative Algebra III](https://mathstat.dal.ca/~faridi/WICAIII) at CMO Oaxaca June 2-7, 2024.
 
-In the news:  I have been awarded the 2024-2025 [Ruth I. Michler Memorial Prize of the AWM](https://awm-math.org/awards/ruth-i-michler-prize).
+Recent news:  I have been awarded the 2024-2025 [Ruth I. Michler Memorial Prize of the AWM](https://awm-math.org/awards/ruth-i-michler-prize).
 
 
 
 My Students
 ========
-
-%**Graduate students:**
 *  [Ben Drabkin](https://www.math.unl.edu/~bdrabkin2/) - PhD 2020
 * [Andrew Conner](https://youtu.be/j368pBapgRE) - MA 2020
 * Erica Hopkins (co-advised with Mark Walker) - PhD 2021
