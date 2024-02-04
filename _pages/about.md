@@ -15,12 +15,14 @@ I have been awarded the 2018 [Harold & Esther Edgerton Junior Faculty Award](htt
 
 I co-organize the workshops[ Women in Commutative Algebra II](https://mathstat.dal.ca/~faridi/WICAII) at CIRM Trento on October 16-20, 2023 and [Women in Commutative Algebra III](https://mathstat.dal.ca/~faridi/WICAIII) at CMO Oaxaca June 2-7, 2024.
 
-In the news: [When life gives you lemons, make mathematicians](https://www.ams.org/journals/notices/202103/rnoti-p375.pdf), an article in the Notices of the AMS about the Polymath program - a large scale online REU I mentor.
+In the news:  I have been awarded the 2024-2025 [Ruth I. Michler Memorial Prize of the AWM](https://awm-math.org/awards/ruth-i-michler-prize).
+
+
 
 My Students
 ========
 
-**Graduate students:**
+%**Graduate students:**
 *  [Ben Drabkin](https://www.math.unl.edu/~bdrabkin2/) - PhD 2020
 * [Andrew Conner](https://youtu.be/j368pBapgRE) - MA 2020
 * Erica Hopkins (co-advised with Mark Walker) - PhD 2021
@@ -29,20 +31,17 @@ My Students
 * [Shah Roshan Zamir](https://sroshanzamir2.github.io/index.html) - Ben Carse Noltig award (2021-2022), Bill Leavitt award (2023-2024)
 * [Juliann Geraci](https://julianngeraci.github.io) - Don Miller Outstanding GTA award (2022-2023)
 
-**Undergraduate students:**
-* Joey Becker - Chair's prize for best graduating math major (2015)
-* Diana (Xuehua) Zhong - graduate student at North Carolina State University (since 2018)
-* Helena Holland - honors thesis in progress.
-
 
 Undergraduate Activities
 ======
 
-I have mentored a team of students working in the [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) large-scale undergraduate research programs of 2020, 2021, and 2023. This wonderful group of students produced four research [papers](\https://aseceleanu.github.io/papers).
+I mentor teams of students working in the [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) large-scale undergraduate research program. An article about this program appeared in the Notices of the AMS [When life gives you lemons, make mathematicians](https://www.ams.org/journals/notices/202103/rnoti-p375.pdf).
+
+I am the founder and director of the [Nebraska Experiential Mathematics and Outreach (NEMO) Lab](https://aseceleanu.github.io/NEMO) affiliated with the [Geometry Labs United](https://geometrylabs.net)  network.
 
 In co-organize the [Central States Mathematics Undergraduate Research Conference](https://math.unl.edu/events/cesmur) in partnership with colleagues at Kansas State University.
 
-I am the founder and director of the [Nebraska Experiential Mathematics and Outreach (NEMO) Lab](https://aseceleanu.github.io/NEMO) affiliated with the [Geometry Labs United](https://geometrylabs.net)  network.
+
 
 <a href="https://clustrmaps.com/site/1buz0" title="Visit tracker"><img width="200" align="right" src="//clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=n&d=R3zDHoxAq5OBTy-gfeFs1Qk8RO-eivlObLLkP5suk2g&co=2d78ad&ct=ffffff" /></a>
 
