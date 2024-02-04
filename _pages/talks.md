@@ -7,7 +7,7 @@ author_profile: true
 
 **Videos from Selected Talks**
 
-
+*[Symbolic powers - algebraic and geometric perspectives: part 1](https://www.slmath.org/workshops/1053/schedules/34839), [part 2](https://www.slmath.org/workshops/1053/schedules/34840), [part 3](https://www.slmath.org/workshops/1053/schedules/34842), Introductory Workshop of the  spring 2024 semester in Commutative Algebra, SLMath, Berkeley. 
 * [The minimal free resolution of a principal symmetric ideal](https://mediaspace.utah.edu/media/t/1_ou5e80it), Fellowship of the Ring national commutative algebra seminar organized by University of Utah, Oct 2020
 * [Connected sums of Artinian Gorenstein algebras and the Lefschetz properties](http://www.birs.ca/events/2018/5-day-workshops/18w5133/videos/watch/201806281730-Seceleanu.html), Fields institute workshop Lefschetz properties in Algebra, geometry and Combinatorics in Toronto, May 2023
 * [Reflection arrangements, syzygies, and the containment problem](https://www.msri.org/seminars/25088), Fellowship of the Ring national commutative algebra seminar organized by MSRI, Jul 2020
