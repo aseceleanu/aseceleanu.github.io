@@ -13,7 +13,9 @@ I am an associate professor of mathematics at the University of Nebraska-Lincoln
 
 I have been awarded the 2018 [Harold & Esther Edgerton Junior Faculty Award](https://executivevc.unl.edu/faculty/evaluation-recognition/awards/edgerton) for creative research, extraordinary teaching abilities, and academic promise.
 
-I co-organize the workshops[ Women in Commutative Algebra II](https://mathstat.dal.ca/~faridi/WICAII) at CIRM Trento on October 16-20, 2023 and [Women in Commutative Algebra III](https://mathstat.dal.ca/~faridi/WICAIII) at CMO Oaxaca June 2-7, 2024.
+I co-organize the workshops [Women in Commutative Algebra II](https://mathstat.dal.ca/~faridi/WICAII) at CIRM Trento on October 16-20, 2023 and [Women in Commutative Algebra III](https://mathstat.dal.ca/~faridi/WICAIII) at CMO Oaxaca June 2-7, 2024.
+
+I am an editor for the [Journal of Commutative Algebra](https://rmmc.asu.edu/jca/jca.html). Please consider submitting your relevant work.
 
 Recent news:  I have been awarded the 2024-2025 [Ruth I. Michler Memorial Prize of the AWM](https://awm-math.org/awards/ruth-i-michler-prize).
 
