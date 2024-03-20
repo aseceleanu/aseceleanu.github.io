@@ -10,4 +10,5 @@ The mission of the NEMO Lab is to connect undergraduate students at the Universi
 
 Spring 2024
 ---------------
-Project on quantum computation mentored by [Dr. Tefjol Pllaha](https://www.math.unl.edu/~tpllaha2/). 
+Project on quantum computation mentored by [Dr. Tefjol Pllaha](https://www.math.unl.edu/~tpllaha2/) with student participants Donovan Dyk, Helena Holland, Jack Murphy, Nick Starns, Ian Sutton. This project is sponsored by the UNL Grand Challenges grant "Quantum Approaches Addressing Global Threats".
+
