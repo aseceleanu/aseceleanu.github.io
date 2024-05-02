@@ -15,7 +15,7 @@ I have been awarded the 2018 [Harold & Esther Edgerton Junior Faculty Award](htt
 
  I have been awarded the 2024-2025 [Ruth I. Michler Memorial Prize of the AWM](https://awm-math.org/awards/ruth-i-michler-prize).
  
- I am giving a series of [lectures](https:aseceleanu.github.io/files/Lefschetz Preparatory School -- Notes by Seceleanu-final.pdf) in the [Lefschetz Preparatory School](https://lefschetz.uken.krakow.pl/school/) in Krakow.
+ I am giving a series of [lectures](https:aseceleanu.github.io/files/Lefschetz Preparatory School.pdf) in the [Lefschetz Preparatory School](https://lefschetz.uken.krakow.pl/school/) in Krakow, May 5-11, 2024.
 
 I co-organize the workshop [Women in Commutative Algebra III](https://mathstat.dal.ca/~faridi/WICAIII) at CMO Oaxaca June 2-7, 2024.
 
