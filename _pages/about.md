@@ -14,10 +14,6 @@ I am an associate professor of mathematics at the University of Nebraska-Lincoln
 I have been awarded the 2018 [Harold & Esther Edgerton Junior Faculty Award](https://executivevc.unl.edu/faculty/evaluation-recognition/awards/edgerton) for creative research, extraordinary teaching abilities, and academic promise.
 
  I have been awarded the 2024-2025 [Ruth I. Michler Memorial Prize of the AWM](https://awm-math.org/awards/ruth-i-michler-prize).
- 
- I am giving a series of [lectures](https://aseceleanu.github.io/files/Lefschetz Preparatory School.pdf) in the [Lefschetz Preparatory School](https://lefschetz.uken.krakow.pl/school/) in Krakow, May 5-11, 2024.
-
-I co-organize the workshop [Women in Commutative Algebra III](https://mathstat.dal.ca/~faridi/WICAIII) at CMO Oaxaca June 2-7, 2024.
 
 I am an editor for the [Journal of Commutative Algebra](https://rmmc.asu.edu/jca/jca.html). Please consider submitting your relevant work.
 
@@ -32,6 +28,7 @@ My Students
 * [Shah Roshan Zamir](https://sroshanzamir2.github.io/index.html) - Ben Carse Noltig award (2021-2022), Bill Leavitt award (2023-2024)
 * [Juliann Geraci](https://julianngeraci.github.io) - Don Miller Outstanding GTA award (2022-2023)
 * Ana Podariu
+* Kara Fagerstrom 
 
 Undergraduate Activities
 ======
