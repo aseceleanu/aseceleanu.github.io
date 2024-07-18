@@ -138,7 +138,7 @@ We give explicit formulas for the determinants of the incidence and Hessian matr
 *  [Resurgences for ideals of special point configurations in P^N coming from hyperplane arrangements](http://arxiv.org/abs/1404.4957)
 (with M. Dumnicki, B. Harbourne, U. Nagel, T. Szemberg and H. Tutaj-Gasinska ) J. Algebra 443 (2015), 383-394
 
-It had been expected for several years that I^(Nr-N+1)? I^r should hold for the ideal I of any finite set of points in P^N for all r>0, but in the last year various counterexamples have now been constructed, all involving point sets coming from hyperplane arrangements. In the present work, we compute their resurgences and obtain in particular the first examples where the resurgence and the asymptotic resurgence are not equal.
+It had been expected for several years that I^(Nr-N+1) should be contained in  I^r  for the ideal I of any finite set of points in P^N for all r>0, but in the last year various counterexamples have now been constructed, all involving point sets coming from hyperplane arrangements. In the present work, we compute their resurgences and obtain in particular the first examples where the resurgence and the asymptotic resurgence are not equal.
 
 * [A tight bound on the projective dimension of four quadrics](http://arxiv.org/abs/1403.6334) (with C. Huneke, P. Mantero and J. McCullough) with accompanying Macaulay 2 code.
 
