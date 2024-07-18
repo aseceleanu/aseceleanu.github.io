@@ -34,6 +34,7 @@ Symmetric shifted ideals are a class of monomial ideals which come equipped with
 We classify Artinian Gorenstein algebras in codimension two that have the Hodge-Riemann property in terms of higher Hessian matrices and total positivity of certain Toeplitz matrices.
 
 * [Polynomial growth of Betti sequences over local rings](https://arxiv.org/pdf/2208.04770.pdf) (with L. Avramov and Y. Zheng)
+Collectanea Math
 
 We study sequences of Betti numbers of modules over complete intersection rings. It is known that the subsequences with even, respectively odd index I are given eventually by some polynomial in i. We study conditions under which the two polynomials agree and more generally give bounds on the degree of their difference.
 
@@ -135,9 +136,9 @@ J. Commut. Algebra 11 (2019) no. 1, 131-154
 We give explicit formulas for the determinants of the incidence and Hessian matrices arising from the interaction between the rank 1 and rank n-1 level sets of the subspace lattice of an n-dimensional finite vector space. Our exploration is motivated by the fact that both of these matrices arise naturally in the study of the combinatorial and algebraic Lefschetz properties.
 
 *  [Resurgences for ideals of special point configurations in P^N coming from hyperplane arrangements](http://arxiv.org/abs/1404.4957)
-(with M. Dumnicki, B. Harbourne, U. Nagel, T. Szemberg and H. Tutaj-Gasi?ska ) J. Algebra 443 (2015), 383-394
+(with M. Dumnicki, B. Harbourne, U. Nagel, T. Szemberg and H. Tutaj-Gasinska ) J. Algebra 443 (2015), 383-394
 
-It had been expected for several years that I^(Nr?N+1)? I^r should hold for the ideal I of any finite set of points in P^N for all r>0, but in the last year various counterexamples have now been constructed, all involving point sets coming from hyperplane arrangements. In the present work, we compute their resurgences and obtain in particular the first examples where the resurgence and the asymptotic resurgence are not equal.
+It had been expected for several years that I^(Nr-N+1)? I^r should hold for the ideal I of any finite set of points in P^N for all r>0, but in the last year various counterexamples have now been constructed, all involving point sets coming from hyperplane arrangements. In the present work, we compute their resurgences and obtain in particular the first examples where the resurgence and the asymptotic resurgence are not equal.
 
 * [A tight bound on the projective dimension of four quadrics](http://arxiv.org/abs/1403.6334) (with C. Huneke, P. Mantero and J. McCullough) with accompanying Macaulay 2 code.
 
