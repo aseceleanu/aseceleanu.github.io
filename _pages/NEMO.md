@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-The mission of the NEMO Lab is to connect undergraduate students at the University of Nebraska-Lincoln with opeportunites to get involved in mathematics research and outreach projects outside of the typical classroom setting.
+The mission of the NEMO Lab is to connect undergraduate students at the University of Nebraska-Lincoln with opportunites to get involved in mathematics research and outreach projects outside of the typical classroom setting.
 
 Spring 2024
 ---------------
