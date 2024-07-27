@@ -39,8 +39,6 @@ I am the founder and director of the [Nebraska Experimental Mathematics and Outr
 
 In co-organize the [Central States Mathematics Undergraduate Research Conference](https://math.unl.edu/events/cesmur) in partnership with colleagues at Kansas State University.
 
-
-
 <a href="https://clustrmaps.com/site/1buz0" title="Visit tracker"><img width="200" align="right" src="//clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=n&d=R3zDHoxAq5OBTy-gfeFs1Qk8RO-eivlObLLkP5suk2g&co=2d78ad&ct=ffffff" /></a>
 
 
