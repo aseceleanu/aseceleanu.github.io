@@ -27,7 +27,7 @@ My Students
 * [Nik Kuzmanovski](https://www.nkuzmanovski.com) (co-advised with Jamie Radcliffe) - PhD 2024
 * [Shah Roshan Zamir](https://sroshanzamir2.github.io/index.html) - Ben Carse Noltig award (2021-2022), Bill Leavitt award (2023-2024)
 * [Juliann Geraci](https://julianngeraci.github.io) - Don Miller Outstanding GTA award (2022-2023)
-* Ana Podariu
+* [Ana Podariu](https://aepodariu.github.io/bebsite)
 * Kara Fagerstrom 
 
 Undergraduate Activities
