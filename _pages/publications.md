@@ -103,18 +103,18 @@ Motivated by notions from coding theory, we study the generalized minimum distan
 
 We introduce a new class of algebraic varieties which we call frieze varieties. Each frieze variety is determined by an acyclic quiver. The frieze variety is defined in an elementary recursive way by constructing a set of points in affine space. From a more conceptual viewpoint, the coordinates of these points are specializations of cluster variables in the cluster algebra associated to the quiver. We give a new characterization of the finite-tame-wild trichotomy for acyclic quivers in terms of their frieze varieties by showing that an acyclic quiver is representation finite, tame, or wild, respectively, if and only if the dimension of its frieze variety is 0,1, or ?2, respectively.
 
-* [Computations involving symbolic powers](https://arxiv.org/pdf/1712.01440.pdf) (with B. Drabkin, E. Grifo, B. Stone) and the Macaulay2 package SymbolicPowers
-J. Software for Algebra and Geometry vol. 9, no.1 (2019), 71?80
+* [Computations involving symbolic powers](https://arxiv.org/pdf/1712.01440.pdf) (with B. Drabkin, E. Grifo, B. Stone) and the Macaulay2 package SymbolicPowers J. Software for Algebra and Geometry vol. 9, no.1 (2019), 71?80
 
 Symbolic powers are a classical commutative algebra topic that relates to primary decomposition, consisting, in some circumstances, of the functions that vanish up to a certain order on a given variety. However, these are notoriously difficult to compute, and there are seemingly simple questions related to symbolic powers that remain open even over polynomial rings. In this paper, we describe a Macaulay2 software package that allows for computations of symbolic powers of ideals and which can be used to study the equality and containment problems, among others.
 
-* [Negative curves on symmetric blowups of the projective plane, resurgences and Waldschmidt constants](https://arxiv.org/abs/1609.08648)
-(with Th. Bauer, S. Di Rocco, B. Harbourne, J. Huizenga, T. Szemberg) International Math. Research Notices IMRN 2019, no. 24, 7459-7514
+* [Negative curves on symmetric blowups of the projective plane, resurgences and Waldschmidt constants](https://arxiv.org/abs/1609.08648) (with Th. Bauer, S. Di Rocco, B. Harbourne, J. Huizenga, T. Szemberg) International Math. Research Notices IMRN 2019, no. 24, 7459-7514
 
 In this paper we study the surface X obtained by blowing up the projective plane in the singular points of one of two highly symmetric line configurations known as the Klein configuration and the Wiman configuration respectively. We study invariant curves on X in detail, with a particular emphasis on curves of negative self-intersection. We use the representation theory of the stabilizers of the singular points to discover several invariant curves of negative self-intersection on X, and use these curves to study Nagata-type questions for linear series on X.
 
 * [Symbolic powers of codimension two Cohen-Macaulay ideals](https://arxiv.org/abs/1606.00935) (with S. Cooper, G. Fatabbi, E. Guardo, A. Lorenzini, J. Migliore, U. Nagel, J. Szpond, A. Van Tuyl)
-Comm. Algebra 48 (2020), no.11, 4663-4680
+Comm. Algebra 48 (2020), no.11, 4663-4680 
+
+This paper is a finalist for the 2024 Earl Taft Memorial Award.
 
 Under the additional hypothesis that X is a local complete intersection, we classify when I(X)^(m) = I(X)^m for all m >= 1. The key tool to prove this classification is the ability to construct a graded minimal free resolution of I^m under these hypotheses. Among our applications are significantly simplified proofs for known results about symbolic powers of ideals of points in P^1 x P^1.
 
