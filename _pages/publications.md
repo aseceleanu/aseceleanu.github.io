@@ -126,7 +126,7 @@ Given a squarefree monomial ideal I, we show that the Waldschmidt constant of I 
 
 Fermat ideals define planar point configurations that are closely related to the base locus of a specific pencil of curves. We describe the minimal generators and free resolutions of the ordinary powers and many of the symbolic powers of these ideals. We show that the symbolic Rees algebras of Fermat ideals are Noetherian.
 
-* [A homological criterion for the failure of containment of the symbolic cube in the square of some ideals of points in] P<sup>2</sup> (http://arxiv.org/abs/1410.0312) J. Pure Applied Algebra 219 (2015) no.11, 4857-4871
+* [A homological criterion for the failure of containment of the symbolic cube in the square of some ideals of points in P<sup>2</sup>](http://arxiv.org/abs/1410.0312) J. Pure Applied Algebra 219 (2015) no.11, 4857-4871
 
 We establish a criterion for the failure of the containment of the symbolic cube in the square for 3-generated ideals I defining reduced sets of points in P^2. Our criterion arises from studying the minimal free resolutions of the powers of I, specifically the minimal free resolutions for I^2 and I^3. We apply this criterion to two point configurations that have recently arisen as counterexamples to a question of B. Harbourne and C. Huneke: the Fermat configuration and the Klein configuration.
 
