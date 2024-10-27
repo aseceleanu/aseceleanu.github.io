@@ -13,8 +13,8 @@ Below are notes from graduate topics courses and other lecture series I have tau
 
 * [Lefschetz Properties](https:aseceleanu.github.io/files/918-Lefschetz-Notes) notes for Math 918 in Fall 2019.
 
-*[Symbolic powers](https:aseceleanu.github.io/files/SNALectures) notes for the graduate school Scoala Nationala de Algebra in Bucharest, 2023.
+* [Symbolic powers](https:aseceleanu.github.io/files/SNALectures) notes for the graduate school Scoala Nationala de Algebra in Bucharest, 2023.
 
-*[Lefschetz Properties from a Topological Perspective](https:aseceleanu.github.io/files/Lefschetz Preparatory School) notes for the graduate school on Lefschetz Properties in Algebra, Geometry and Combinatorics in Krakow, 2024.
+* [Lefschetz Properties from a Topological Perspective](https:aseceleanu.github.io/files/Lefschetz Preparatory School) notes for the graduate school on Lefschetz Properties in Algebra, Geometry and Combinatorics in Krakow, 2024.
 
-*Coming soon [Algebraic Geometry] notes for a graduate course in Spring 2025.
+* Coming soon [Algebraic Geometry] notes for a graduate course in Spring 2025.
