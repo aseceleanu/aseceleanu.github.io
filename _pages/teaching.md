@@ -15,6 +15,6 @@ Below are notes from graduate topics courses and other lecture series I have tau
 
 * [Symbolic powers](../files/SNALectures.pdf) notes for the graduate school Scoala Nationala de Algebra in Bucharest, 2023.
 
-* [Lefschetz Properties from a Topological Perspective](../files/Lefschetz Preparatory School.pdf) notes for the graduate school Preparatory School on Lefschetz Properties in Krakow, 2024.
+* [Lefschetz Properties through a Topological Lense](../files/Lefschetz Preparatory School.pdf) notes for the graduate school Preparatory School on Lefschetz Properties in Krakow, 2024.
 
 * Coming soon [Algebraic Geometry]() notes for a graduate course in Spring 2025.
