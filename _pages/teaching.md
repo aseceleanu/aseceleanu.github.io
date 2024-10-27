@@ -11,7 +11,7 @@ Below are notes from graduate topics courses and other lecture series I have tau
 
 * [Computational Algebra](../files/Computational_alg_notes.pdf) notes for Math 918 in Fall 2013 typeset by Peder Thompson.
 
-* [Lefschetz Properties](../files/918-Lefschetz-Notes.pdf) notes for Math 918 in Fall 2019.
+* [The Lefschetz Properties](../files/918-Lefschetz-Notes.pdf) notes for Math 918 in Fall 2019.
 
 * [Symbolic powers](../files/SNALectures.pdf) notes for the graduate school Scoala Nationala de Algebra in Bucharest, 2023.
 
