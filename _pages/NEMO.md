@@ -16,7 +16,7 @@ Watch Helena Holland defend her honors thesis [Quantum Computing and U.S. Cybers
 
 Fall 2024
 ---------------
-Project on quantum machine learning mentored by [Dr. Levi Heath](https://leviheath.weebly.com/) with student participants Ben Gerdes, Caleb Holmbeck. Reva Long, Andrew Maas, Tyler McMann, Ally Muellner, Hannah Pearce, Bishop Placke, Noah Sorensen and Thy Tran. This topic is accessible to students who have taken or are taking Math 314/315.  This project is supported by the UNL Grand Challenges catalyst award entitled Quantum Approaches addressing Global Threats. 
+Project on quantum machine learning mentored by [Dr. Levi Heath](https://leviheath.weebly.com/) with student participants Ben Gerdes, Caleb Holmbeck. Reva Long, Andrew Maas, Tyler McMann, Ally Muellner, Hannah Pearce, Bishop Placke, Noah Sorensen and Thy Tran.  This project is supported by the UNL Grand Challenges catalyst award entitled Quantum Approaches addressing Global Threats. 
 
 * Title: An Exploration of Quantum Data (Towards Quantum Machine Learning)
 * Goal of the Project: Understand quantum data and approaches to converting classical data (like a matrix) to quantum data.
@@ -26,4 +26,4 @@ Developing machine learning models and artificial intelligence are examples of d
 
 Spring 2025
 -----------------
-Project on period doubling and chaos in a system of differential equations mentored by [Prof. Glenn Ledder](https://math.unl.edu/glenn-ledder) and graduate student Michael Pieper. This topic is accessible to students who have taken Math 221. Applications will open in winter 2024.
+Project on period doubling and chaos in a system of differential equations mentored by [Prof. Glenn Ledder](https://math.unl.edu/glenn-ledder) and graduate student Michael Pieper. This topic is accessible to students who have taken Differential Equations (Math 221 at UNL). Applications will open in winter 2024.
