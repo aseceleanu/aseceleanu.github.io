@@ -11,8 +11,6 @@ redirect_from:
 
 I am an associate professor of mathematics at the University of Nebraska-Lincoln. My research focuses on commutative algebra with a geometric and computational flavor.
 
-I have been awarded the 2018 [Harold & Esther Edgerton Junior Faculty Award](https://executivevc.unl.edu/faculty/evaluation-recognition/awards/edgerton) for creative research, extraordinary teaching abilities, and academic promise.
-
  I have been awarded the 2024-2025 [Ruth I. Michler Memorial Prize of the AWM](https://awm-math.org/awards/ruth-i-michler-prize).
 
 I am an editor for the [Journal of Commutative Algebra](https://rmmc.asu.edu/jca/jca.html). Please consider submitting your relevant work.
