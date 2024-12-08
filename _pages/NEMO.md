@@ -21,4 +21,4 @@ Project on quantum machine learning mentored by [Dr. Levi Heath](https://levihea
 
 Spring 2025 - Dynamical Systems
 ------------------------------------------------------------------------------------------
-Project on period doubling and chaos in a system of differential equations mentored by [Prof. Glenn Ledder](https://math.unl.edu/glenn-ledder) and graduate student Michael Pieper. This topic is accessible to students who have taken Differential Equations (Math 221 at UNL). Applications  are now open with a deadline of January 15. Apply [here](https://forms.gle/jeqrYfKvp6cTxNuS7).
+Project on stability, chaos and real-world applications differential equations in epidemiology mentored by [Prof. Glenn Ledder](https://math.unl.edu/glenn-ledder) and graduate student Michael Pieper. This topic is accessible to students who have taken Differential Equations (Math 221 at UNL). Applications  are now open with a deadline of January 15. Apply [here](https://forms.gle/jeqrYfKvp6cTxNuS7).
