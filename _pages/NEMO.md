@@ -19,6 +19,6 @@ Fall 2024 - Quantum Machine Learning
 Project on quantum machine learning mentored by [Dr. Levi Heath](https://leviheath.weebly.com/) with student participants Ben Gerdes, Caleb Holmbeck, Andrew Maas, Ally Muellner, Reva Long, Hannah Pearce, Bishop Placke, and Thy Tran.  This project is supported by the UNL Grand Challenges catalyst award entitled Quantum Approaches addressing Global Threats. 
 
 
-Spring 2025 - Dynamical Systems with applications to Epidemiology
+Spring 2025 - Dynamical Systems
 ------------------------------------------------------------------------------------------
 Project on period doubling and chaos in a system of differential equations mentored by [Prof. Glenn Ledder](https://math.unl.edu/glenn-ledder) and graduate student Michael Pieper. This topic is accessible to students who have taken Differential Equations (Math 221 at UNL). Applications  are now open with a deadline of January 15. Apply [here](https://forms.gle/jeqrYfKvp6cTxNuS7).
