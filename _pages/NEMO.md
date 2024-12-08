@@ -16,9 +16,7 @@ Watch Helena Holland defend her honors thesis [Quantum Computing and U.S. Cybers
 
 Fall 2024 - Quantum Machine Learning
 ----------------------------------------------------
-
-
-The process of transforming classical data into quantum data is referred to as quantum encoding. Current quantum machine learning algorithms are limited by the efficiency of quantum encoding techniques. In this project, students are introduced to the mathematics behind quantum computing and gain intuition for quantum machine learning and quantum encoding.
+Project on quantum machine learning mentored by [Dr. Levi Heath](https://leviheath.weebly.com/) with student participants Ben Gerdes, Caleb Holmbeck, Andrew Maas, Ally Muellner, Reva Long, Hannah Pearce, Bishop Placke, and Thy Tran.  This project is supported by the UNL Grand Challenges catalyst award entitled Quantum Approaches addressing Global Threats. 
 
 
 Spring 2025
