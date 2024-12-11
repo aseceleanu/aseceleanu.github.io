@@ -15,7 +15,7 @@ I am an associate professor of mathematics at the University of Nebraska-Lincoln
 
 I am an editor for the [Journal of Commutative Algebra](https://rmmc.asu.edu/jca/jca.html). Please consider submitting your relevant work.
 
-My paper [Symbolic powers of codimension two Cohen-Macaulay ideals](https://arxiv.org/abs/1606.00935) won the 2024 Earl J. Taft memorial [award](https://www.tandfonline.com/journals/lagb20/collections/earl-j-taft-memorial-award).
+My paper [Symbolic powers of codimension two Cohen-Macaulay ideals](https://arxiv.org/abs/1606.00935) won the 2024 [Earl J. Taft memorial award](https://www.tandfonline.com/journals/lagb20/collections/earl-j-taft-memorial-award).
 
 
 My Students
