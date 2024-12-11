@@ -25,7 +25,7 @@ We introduce the class of principal symmetric ideals, which are ideals generated
 
 The starting point of this paper is a duality for sequences of natural numbers which interchanges superadditive and subadditive sequences. We show how this duality has natural algebraic consequences in conjunction with the theory of Macaulay inverse systems and how it underpins the reciprocity between two geometric invariants: the Seshadri constant and the asymptotic regularity of a finite set of points in projective space.
 
-* [The combinatorial structure of symmetric strongly shifted ideals](https://arxiv.org/pdf/2208.10476.pdf) (with A. Costantini)
+* [The combinatorial structure of symmetric strongly shifted ideals](https://arxiv.org/pdf/2208.10476.pdf) (with A. Costantini) J. Combinatorial Algebra
 
 Symmetric shifted ideals are a class of monomial ideals which come equipped with an action of the symmetric group and share many of the properties of the well-studied strongly stable ideal from combinatorial commutative algebra. We study algebraic and combinatorial properties of these ideals: behavior under operations, primary decomposition, Rees algebra, and uncover interesting connections to the theory of discrete polymatroids, convex geometry, and permutohedral toric varieties.
 
