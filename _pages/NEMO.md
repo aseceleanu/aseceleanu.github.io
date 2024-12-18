@@ -18,6 +18,8 @@ Fall 2024 - Quantum Machine Learning
 ----------------------------------------------------
 Project on quantum machine learning mentored by [Dr. Levi Heath](https://leviheath.weebly.com/) with student participants Ben Gerdes, Caleb Holmbeck, Andrew Maas, Ally Muellner, Reva Long, Hannah Pearce, Bishop Placke, and Thy Tran.  This project is supported by the UNL Grand Challenges catalyst award entitled Quantum Approaches addressing Global Threats. 
 
+Watch a [video](https://urldefense.com/v3/__https://zoom.us/rec/share/YrGs1tb_vXmeaSc3Ri1Q4_GmuhbnvHORqvg-006Zg2EpG8Gvk4T9VjXOM8msFYGP.XBMMUNA2K6Ba-DEq?iet=QgxqBF-kVDzRVH_3SwUpvSQp7ZzB1eZvqc5B89OyDJQ.AG.YaXZ9S-GOXW4z2cJ_8Tf_w-bWhNjkLp4n_1mchRD8DUh8qeuIPZSk2B7KGj_Zk8ENnNOQ-b7h-N_0I5TCRW8pVgHDEX3AYGNEZvrd4Zfd8_HH7VMevNvOgD64w.1y5xTyb7Pmu6eVPxW6TBqQ.nNLB8af59BShgOb5__;!!PvXuogZ4sRB2p-tU!Fh900sPRI7SXobv0xK-Rhu8T6j0w1UK5f5OBPiOHwiHLOxPj7v8ZDqDqtMHOYSKx5X8q_DVtC5KoHmSPcQ$) presentation by this group.
+
 
 Spring 2025 - Dynamical Systems
 ------------------------------------------------------------------------------------------
