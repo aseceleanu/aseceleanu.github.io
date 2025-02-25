@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+* [Constructions of Macaulay Posets and Macaulay Rings](https://arxiv.org/pdf/2502.15166 ) (with Polymath)
+
+A poset is Macaulay if its partial order and an additional total order interact well. Analogously, a ring is Macaulay if the partial order defined on its monomials by division interacts nicely with any total monomial order. We investigate methods of obtaining new structures through combining Macaulay rings and posets by means of certain operations inspired by topology.
+
+* [Lefschetz properties through a topological lens](https://arxiv.org/pdf/2412.08917) 
+
+This is an expository work prepared for the Lefschetz Preparatory School in Krakow, May 6-10, 2024. They present the story of the algebraic Lefschetz properties from their origin in algebraic geometry to some recent developments in commutative algebra. 
+
 * [Polarization and Gorenstein liaison](https://arxiv.org/pdf/2406.19985) (with S. Faridi, P. Klein and J. Rajchgot)
 
 Given a monomial ideal I and a vertex decomposition of the Stanley-Reisner complex of its polarization P(I), we give conditions that allow for the lifting of an associated basic double G-link of P(I) to a basic double G-link of I itself. We then introduce and study polarization of a Grobner basis of an arbitrary homogeneous ideal and give a relationship between geometric vertex decomposition of a polarization and elementary G-biliaison that is analogous to our result on vertex decomposition and basic double G-linkage.
