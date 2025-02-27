@@ -5,11 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [New families of Artinian Gorenstein algebras with the weak Lefschetz property](https://arxiv.org/pdf/2502.16687  ) (with N. Altafi, R. Dinu, S. Masuti, R. Miro-Roig, N. Villamizar)
+* [Artinian Gorenstein algebras with binomial Macaulay dual generator](https://arxiv.org/pdf/2502.18149) (with N. Altafi, R. Dinu, S. Masuti, R. Miro-Roig, N. Villamizar)
+
+This paper initiates a systematic study for key properties of Artinian Gorenstein K-algebras having binomial Macaulay dual generators. In codimension 3, we demonstrate that all such algebras satisfy the strong Lefschetz property, can be constructed as a doubling of an appropriate 0-dimensional scheme, and we provide an explicit characterization of when they form a complete intersection. 
+
+* [New families of Artinian Gorenstein algebras with the weak Lefschetz property](https://arxiv.org/pdf/2502.16687) (with N. Altafi, R. Dinu, S. Masuti, R. Miro-Roig, N. Villamizar)
 
 We construct new families of Artinian Gorenstein graded K-algebras of arbitrary codimension having binomial Macaulay dual generators and satisfying the weak or the strong Lefschetz property.
 
-* [Constructions of Macaulay Posets and Macaulay Rings](https://arxiv.org/pdf/2502.15166 ) (with Polymath)
+* [Constructions of Macaulay Posets and Macaulay Rings](https://arxiv.org/pdf/2502.15166) (with Polymath)
 
 A poset is Macaulay if its partial order and an additional total order interact well. Analogously, a ring is Macaulay if the partial order defined on its monomials by division interacts nicely with any total monomial order. We investigate methods of obtaining new structures through combining Macaulay rings and posets by means of certain operations inspired by topology.
 
