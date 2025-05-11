@@ -25,10 +25,11 @@ My Students
 * Erica Hopkins (co-advised with Mark Walker) - PhD 2021
 * [Michael DeBellevue](https://mpdebell.expressions.syr.edu) (co-advised with Mark Walker) - PhD 2022
 * [Nik Kuzmanovski](https://www.nkuzmanovski.com) (co-advised with Jamie Radcliffe) - PhD 2024
-* [Shah Roshan Zamir](https://sroshanzamir2.github.io/index.html) - Ben Carse Noltig award (2021-2022), Bill Leavitt award (2023-2024)
+* [Shah Roshan Zamir](https://sroshanzamir2.github.io/index.html) - PhD 2025
 * [Juliann Geraci](https://julianngeraci.github.io) - Don Miller Outstanding GTA award (2022-2023)
 * [Ana Podariu](https://aepodariu.github.io/bebsite)
-* Kara Fagerstrom 
+* Kara Fagerstrom(https://math.unl.edu/person/kara-fagerstrom/)
+* Ben Huenemann(https://math.unl.edu/person/ben-huenemann/)
 
 Undergraduate Activities
 ======
