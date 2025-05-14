@@ -28,8 +28,8 @@ My Students
 * [Shah Roshan Zamir](https://sroshanzamir2.github.io/index.html) - PhD 2025
 * [Juliann Geraci](https://julianngeraci.github.io) - Don Miller Outstanding GTA award (2022-2023)
 * [Ana Podariu](https://aepodariu.github.io/bebsite)
-* Kara Fagerstrom(https://math.unl.edu/person/kara-fagerstrom/)
-* Ben Huenemann(https://math.unl.edu/person/ben-huenemann/)
+* [Kara Fagerstrom](https://math.unl.edu/person/kara-fagerstrom/)
+* [Ben Huenemann](https://math.unl.edu/person/ben-huenemann/)
 
 Undergraduate Activities
 ======
