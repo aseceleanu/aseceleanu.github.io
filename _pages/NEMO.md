@@ -18,9 +18,15 @@ Fall 2024 - Quantum Machine Learning
 ----------------------------------------------------
 Project on quantum machine learning mentored by Dr. Levi Heath with student participants Ben Gerdes, Caleb Holmbeck, Andrew Maas, Ally Muellner, Reva Long, Hannah Pearce, Bishop Placke, and Thy Tran.  This project is supported by the UNL Grand Challenges catalyst award entitled Quantum Approaches addressing Global Threats. 
 
-Watch a [video](https://urldefense.com/v3/__https://zoom.us/rec/share/YrGs1tb_vXmeaSc3Ri1Q4_GmuhbnvHORqvg-006Zg2EpG8Gvk4T9VjXOM8msFYGP.XBMMUNA2K6Ba-DEq?iet=QgxqBF-kVDzRVH_3SwUpvSQp7ZzB1eZvqc5B89OyDJQ.AG.YaXZ9S-GOXW4z2cJ_8Tf_w-bWhNjkLp4n_1mchRD8DUh8qeuIPZSk2B7KGj_Zk8ENnNOQ-b7h-N_0I5TCRW8pVgHDEX3AYGNEZvrd4Zfd8_HH7VMevNvOgD64w.1y5xTyb7Pmu6eVPxW6TBqQ.nNLB8af59BShgOb5__;!!PvXuogZ4sRB2p-tU!Fh900sPRI7SXobv0xK-Rhu8T6j0w1UK5f5OBPiOHwiHLOxPj7v8ZDqDqtMHOYSKx5X8q_DVtC5KoHmSPcQ$) presentation by this group.
+See a [presentation](../files/Fall2025NEMOLabPresentation) by this group.
 
 
 Spring 2025 - Dynamical Systems
 ------------------------------------------------------------------------------------------
-Project on stability, chaos and real-world applications differential equations in epidemiology mentored by [Prof. Glenn Ledder](https://math.unl.edu/glenn-ledder) and graduate student Michael Pieper. This topic is accessible to students who have taken Differential Equations (Math 221 at UNL). Applications  are now open with a deadline of January 15. Apply [here](https://forms.gle/jeqrYfKvp6cTxNuS7).
+Project on mathematical biology mentored by [Prof. Glenn Ledder](https://math.unl.edu/glenn-ledder) and graduate student Michael Pieper with student participants James Lynch and Sophia Thompson. The goal was to give a simple model of the immune system by representing it as a system of differential equations.
+
+
+
+Spring 2026 - Quantum Information Theory
+--------------------------------------------------------
+Project on quantum science and its applications mentored by [Dr. Román Aranda](https://romanaranda123.wordpress.com). Applications will open in December 2025.
