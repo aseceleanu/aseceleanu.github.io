@@ -18,14 +18,14 @@ Fall 2024 - Quantum Machine Learning
 ----------------------------------------------------
 Project on quantum machine learning mentored by Dr. Levi Heath with student participants Ben Gerdes, Caleb Holmbeck, Andrew Maas, Ally Muellner, Reva Long, Hannah Pearce, Bishop Placke, and Thy Tran.  This project is supported by the UNL Grand Challenges catalyst award entitled Quantum Approaches addressing Global Threats. 
 
-See a [presentation](../files/Fall2025NEMOLabPresentation.pdf) by this group.
+See a [presentation](../files/Fall2024NEMOLabPresentation.pdf) by this group.
 
 
 Spring 2025 - Dynamical Systems
 ------------------------------------------------------------------------------------------
 Project on mathematical biology mentored by [Prof. Glenn Ledder](https://math.unl.edu/glenn-ledder) and graduate student [Michael Pieper](https://math.unl.edu/person/michael-pieper) with student participants James Lynch and Sophia Thompson. The goal was to give a simple model of the immune system by representing it as a system of differential equations.
 
-
+See a [presentation](../files/Spring2025NEMOLabPresentation.pdf) by James Lynch regarding the project.
 
 Spring 2026 - Quantum Information Theory
 --------------------------------------------------------
