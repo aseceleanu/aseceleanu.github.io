@@ -12,7 +12,7 @@ Spring 2024 - Quantum Computing
 -----------------------------------------------
 Project on quantum computation mentored by Dr. Tefjol Pllaha with student participants Donovan Dyk, Helena Holland, Jack Murphy, Nick Starns, Ian Sutton. This project is supported by the UNL Grand Challenges catalyst award entitled Quantum Approaches addressing Global Threats.
 
-Helena Holland wrote an honors thesis [Quantum Computing and U.S. Cybersecurity](https:aseceleanu.github.io/files/UndergraduateThesisDefenseSlides.pptx), which earned highest distinction.
+Helena Holland wrote an honors thesis [Quantum Computing and U.S. Cybersecurity](../files/UndergraduateThesisDefenseSlides.pdf), which earned highest distinction.
 
 Fall 2024 - Quantum Machine Learning
 ----------------------------------------------------
