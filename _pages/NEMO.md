@@ -29,4 +29,4 @@ Project on mathematical biology mentored by [Prof. Glenn Ledder](https://math.un
 
 Spring 2026 - Quantum Information Theory
 --------------------------------------------------------
-Project on quantum science and its applications mentored by [Dr. Román Aranda](https://romanaranda123.wordpress.com). Applications will open in December 2025.
+Project on quantum science and its applications mentored by [Dr. Roman Aranda](https://romanaranda123.wordpress.com). Applications will open in December 2025.
