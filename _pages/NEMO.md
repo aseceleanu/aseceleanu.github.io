@@ -23,7 +23,7 @@ See a [presentation](../files/Fall2025NEMOLabPresentation.pdf) by this group.
 
 Spring 2025 - Dynamical Systems
 ------------------------------------------------------------------------------------------
-Project on mathematical biology mentored by [Prof. Glenn Ledder](https://math.unl.edu/glenn-ledder) and graduate student Michael Pieper with student participants James Lynch and Sophia Thompson. The goal was to give a simple model of the immune system by representing it as a system of differential equations.
+Project on mathematical biology mentored by [Prof. Glenn Ledder](https://math.unl.edu/glenn-ledder) and graduate student [Michael Pieper](https://math.unl.edu/person/michael-pieper) with student participants James Lynch and Sophia Thompson. The goal was to give a simple model of the immune system by representing it as a system of differential equations.
 
 
 
