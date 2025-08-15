@@ -29,7 +29,7 @@ My Students
 * [Juliann Geraci](https://julianngeraci.github.io) - Don Miller Outstanding GTA award (2022-2023)
 * [Ana Podariu](https://aepodariu.github.io/bebsite)
 * [Kara Fagerstrom](https://math.unl.edu/person/kara-fagerstrom/)
-* [Ben Huenemann](https://math.unl.edu/person/ben-huenemann/)
+* [Ben Huenemann](https://bhuenemann.github.io)
 
 Undergraduate Activities
 ======
