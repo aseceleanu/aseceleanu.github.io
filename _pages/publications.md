@@ -25,7 +25,7 @@ We construct new families of Artinian Gorenstein graded K-algebras of arbitrary 
 
 A poset is Macaulay if its partial order and an additional total order interact well. Analogously, a ring is Macaulay if the partial order defined on its monomials by division interacts nicely with any total monomial order. We investigate methods of obtaining new structures through combining Macaulay rings and posets by means of certain operations inspired by topology.
 
-* [Lefschetz properties through a topological lens](https://arxiv.org/pdf/2412.08917) Annales Universitatis Paedagogicae Cracoviensis Studia Mathematica
+* [Lefschetz properties through a topological lens](https://arxiv.org/pdf/2412.08917) Annales Universitatis Paedagogicae Cracoviensis Studia Mathematica 24 (2025), 7-47.
 
 This is an expository work prepared for the Lefschetz Preparatory School in Krakow, May 6-10, 2024. They present the story of the algebraic Lefschetz properties from their origin in algebraic geometry to some recent developments in commutative algebra. 
 
