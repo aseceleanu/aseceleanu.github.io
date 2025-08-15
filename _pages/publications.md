@@ -53,7 +53,7 @@ The starting point of this paper is a duality for sequences of natural numbers w
 
 Symmetric shifted ideals are a class of monomial ideals which come equipped with an action of the symmetric group and share many of the properties of the well-studied strongly stable ideal from combinatorial commutative algebra. We study algebraic and combinatorial properties of these ideals: behavior under operations, primary decomposition, Rees algebra, and uncover interesting connections to the theory of discrete polymatroids, convex geometry, and permutohedral toric varieties.
 
-* [Higher Lorentzian Polynomials, Higher Hessians, and the Hodge?Riemann Relations for Graded Oriented Artinian Gorenstein Algebras in Codimension Two](https://arxiv.org/pdf/2208.05653.pdf) (with P. Macias Marques, C. McDaniel) Int. Math. Res. Not. IMRN, 2025 no. 13, 1?34.
+* [Higher Lorentzian Polynomials, Higher Hessians, and the Hodge?Riemann Relations for Graded Oriented Artinian Gorenstein Algebras in Codimension Two](https://arxiv.org/pdf/2208.05653.pdf) (with P. Macias Marques, C. McDaniel) Int. Math. Res. Not. IMRN, 2025 no. 13, 1-34.
 
 We classify Artinian Gorenstein algebras in codimension two that have the Hodge-Riemann property in terms of higher Hessian matrices and total positivity of certain Toeplitz matrices.
 
