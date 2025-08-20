@@ -17,4 +17,4 @@ Below are notes from graduate topics courses and other lecture series I have tau
 
 * [Lefschetz Properties through a Topological Lense](../files/Lefschetz Preparatory School.pdf) notes for the graduate school Preparatory School on Lefschetz Properties in Krakow, 2024.
 
-* Coming soon [Algebraic Geometry]() notes for a graduate course in Spring 2025.
+* [Algebraic Geometry](../files/Math953Notes.pdf) notes for a graduate course in Spring 2025.
