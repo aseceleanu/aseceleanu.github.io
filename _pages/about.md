@@ -11,6 +11,8 @@ redirect_from:
 
 I am an associate professor of mathematics at the University of Nebraska-Lincoln. My research focuses on commutative algebra with a geometric and computational flavor. Please see the menu above for my publications.
 
+I will be a plenary speaker at the 2026 [MEGA - Effective Methods in Algebraic Geometry](https://maths.dur.ac.uk/mega2026).
+
  I have been awarded the 2024-2025 [Ruth I. Michler Memorial Prize of the AWM](https://awm-math.org/awards/ruth-i-michler-prize).
 
 I am an editor for the [Journal of Commutative Algebra](https://rmmc.asu.edu/jca/jca.html). Please consider submitting your relevant work.
