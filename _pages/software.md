@@ -12,4 +12,4 @@ I have authored or co-authored several packages for the computer algebra program
 * SymmetricPolynomials
 * BigIdeals
 * SymbolicPowers
-* MacaulayPosets
+* [MacaulayPosets](../files/MacaulayPosets.m2) 
