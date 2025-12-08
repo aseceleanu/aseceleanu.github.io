@@ -15,8 +15,6 @@ I will speak at [Commutative Algebra and Algebraic Geometry in Milan](https://ww
 
 I will be a plenary speaker at the 2026 [MEGA - Effective Methods in Algebraic Geometry](https://maths.dur.ac.uk/mega2026) at Durham University, UK.
 
- I have been awarded the 2024-2025 [Ruth I. Michler Memorial Prize of the AWM](https://awm-math.org/awards/ruth-i-michler-prize).
-
 I am an editor for the [Journal of Commutative Algebra](https://rmmc.asu.edu/jca/jca.html). Please consider submitting your relevant work.
 
 

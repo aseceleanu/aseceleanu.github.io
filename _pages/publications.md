@@ -5,6 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
+*[Seshadri Regions and the Asymptotic Shape of Multigraded Regularity](https://arxiv.org/pdf/2512.05289) (with J. Bruce, L. Cranton Heller, M Sayrafi)
+
+We introduce the Seshadri region of a subvariety, a convex region packaging the classical Seshadri constants with respect to every line bundle simultaneously. We develop the theory of Seshadri regions as a measure of positivity along subvarieties and apply it to determine asymptotic Castelnuovo-Mumford regularity for ideal powers and symmetric powers on smooth projective toric varieties.
+
+*[The MacaulayPosets package for Macaulay2](https://arxiv.org/pdf/2510.22843) (with P. beall, N.Kuzmanovski, Y.O. Li)
+
+We introduce the package MacaulayPosets written for the computational algebra system Macaulay2. 
+
+* [Boolean rank via monomial ideals](https://arxiv.org/pdf/2509.09570) (with J. Geraci and A. Kunin)
+
+We utilize algebraic structures and techniques--particularly the Castelnuovo-Mumford regularity of combinatorially defined ideals--to establish new lower bounds for Boolean matrix rank. 
+
+
 * [Multicomplex Configurations: a case study in Gorenstein Liaison](https://arxiv.org/pdf/2507.10357) (with P. Klein and J. Rajchgot)
 
 We introduce and investigate multicomplex configurations, a class of projective varieties constructed via specialization of the polarizations of Artinian monomial ideals.
