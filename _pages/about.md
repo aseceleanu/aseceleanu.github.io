@@ -30,6 +30,7 @@ My Students
 * [Ana Podariu](https://aepodariu.github.io/bebsite)
 * [Kara Fagerstrom](https://math.unl.edu/person/kara-fagerstrom/)
 * [Ben Huenemann](https://bhuenemann.github.io)
+* [Noah Walker](https://math.unl.edu/person/noah-walker/)
 
 Undergraduate Activities
 ======
