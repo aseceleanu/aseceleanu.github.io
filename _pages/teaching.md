@@ -5,9 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-For undergraduate course information please visit Canvas. Lecture notes I wrote include
+For undergraduate course information please visit Canvas. Lecture notes I wrote include:
 
-* [Math 310 Introduction to Modern Algebra](../Math310LectureNotes.html) 
+* [Math 310 Introduction to Modern Algebra](Math310LectureNotes.html) 
 
 Below are notes from graduate topics courses and other lecture series I have taught. While I have made a good-faith effort to keep these notes free of typos, there may still be some typos I have not caught. 
 
