@@ -4,12 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-*[Adjoints of Morphisms of Neural Codes](https://arxiv.org/pdf/2603.10837) (with J. Geraci and A. Kunin)
+* [Weighted Veronese rings via convex semigroups](https://arxiv.org/pdf/2603.12441) (with B. Chase, L. Fiorindo, T. Holleben, E. Marangone, T. Nguyen, S. Singh)
+
+We determine properties of two dimensional normal affine semigroup rings, and in particular of weighted Veronese rings, including determinantal presentation, Groebner basis, graded Hilbert series and graded Betti numbers, the structure of their associated graded rings, and their Koszul property.
+
+* [Adjoints of Morphisms of Neural Codes](https://arxiv.org/pdf/2603.10837) (with J. Geraci and A. Kunin)
 
 We show that any morphism of combinatorial codes is part of a Galois connection where its adjoint is boolean multiplication by the representative matrix and provide application to boolean matrix factorization.
 
-
-* [Seshadri Regions and the Asymptotic Shape of Multigraded Regularity](https://arxiv.org/pdf/2512.05289) (with J. Bruce, L. Cranton Heller, M Sayrafi)
+* [Seshadri regions and the ssymptotic shape of multigraded regularity](https://arxiv.org/pdf/2512.05289) (with J. Bruce, L. Cranton Heller, M Sayrafi)
 
 We introduce the Seshadri region of a subvariety, a convex region packaging the classical Seshadri constants with respect to every line bundle simultaneously. We develop the theory of Seshadri regions as a measure of positivity along subvarieties and apply it to determine asymptotic Castelnuovo-Mumford regularity for ideal powers and symmetric powers on smooth projective toric varieties.
 
