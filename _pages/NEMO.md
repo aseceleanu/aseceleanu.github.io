@@ -29,7 +29,7 @@ See a [presentation](../files/Spring2025NEMOPresentation.pdf) by James Lynch reg
 
 Spring 2026 - Quantum Information Theory
 --------------------------------------------------------
-Project mentored by [Dr. Rom&aacute;n Aranda](https://romanaranda123.wordpress.com) with student participants Aruneem Bhowmick, Glazier Demma, Ogochukwu Ibe-Ikechi, Matthew Johnson, Viet Lai, Jasmine Pham,  Vittoria Quaranta, Lewis Rokke, Renzo Sarreal, Kody Tober, Barron Vaughn,  Eric Woods.
+Project mentored by [Dr. Rom&aacute;n Aranda](https://romanaranda123.wordpress.com) with student participants Aruneem Bhowmick, Ogochukwu Ibe-Ikechi,  Viet Lai, Jasmine Pham,  Vittoria Quaranta, Lewis Rokke, Renzo Sarreal, Kody Tober, Barron Vaughn,  Eric Woods.
 
 
 
