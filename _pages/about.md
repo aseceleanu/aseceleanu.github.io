@@ -26,7 +26,7 @@ My Students
 * [Michael DeBellevue](https://mpdebell.expressions.syr.edu) (co-advised with Mark Walker) - PhD 2022
 * [Nik Kuzmanovski](https://www.nkuzmanovski.com) (co-advised with Jamie Radcliffe) - PhD 2024
 * [Shah Roshan Zamir](https://sroshanzamir2.github.io/index.html) - PhD 2025
-* [Juliann Geraci](https://julianngeraci.github.io) - PhD 2026
+* [Juliann Geraci](https://julianngeraci.github.io) (co-advised with Alex Kunin) - PhD 2026
 * [Ana Podariu](https://aepodariu.github.io/bebsite)
 * [Kara Fagerstrom](https://math.unl.edu/person/kara-fagerstrom/)
 * [Ben Huenemann](https://bhuenemann.github.io)
