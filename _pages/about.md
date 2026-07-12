@@ -9,7 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an professor of mathematics at the University of Nebraska-Lincoln. My research focuses on commutative algebra with a geometric and computational flavor. Please see the menu above for my publications.
+I am a professor of mathematics at the University of Nebraska-Lincoln. My research focuses on commutative algebra with a geometric and computational flavor. Please see the menu above for my publications.
+
+In 2026 I co-organize the workshop [Asymptotic Invariants of Linear Systems and Homogeneous Ideals with Symmetries](https://www.mfo.de/www/activity/2637b) in Oberwolfach.
 
 I am an editor for the [Journal of Commutative Algebra](https://rmmc.asu.edu/jca/jca.html) and [Combinatorial Commutative Algebra](https://mulpress.mcmaster.ca/CCA/). Please consider submitting your relevant work.
 
