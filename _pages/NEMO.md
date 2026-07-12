@@ -31,9 +31,9 @@ Spring 2026 - Quantum Information Theory
 --------------------------------------------------------
 Project mentored by [Dr. Rom&aacute;n Aranda](https://romanaranda123.wordpress.com) with student participants Aruneem Bhowmick, Ogochukwu Ibe-Ikechi,  Viet Lai, Jasmine Pham,  Vittoria Quaranta, Lewis Rokke, Renzo Sarreal, Kody Tober, Barron Vaughn,  Eric Woods.
 
-See the [NEMO learning seminar] talks and topics.
+See the [NEMO learning seminar](https://docs.google.com/document/d/11gqgl6G-DWORQWY437Ak7bPqMhGx9ReGFb1MkEI_hQw/edit?usp=sharing) talks and topics.
 
 Spring 2026 - Classical and Quantum Error Correcting Codes
 ---------------------------------------------------------------------------------
-Project mentored by [Dr. Christine Kelley](https://math.unl.edu/person/christine-kelley/) with graduate assistant [Fares Soufan](https://math.unl.edu/person/fares-soufan/). In this project, you'll dive into understanding the relationship between the code, its graph, and its decoding performance.  We will look at simple decoding algorithms, families of codes, and how the graph representation affects performance in different situations.  We will also look at families of codes, both classical and quantum, and try to quantify and characterize structures that affect decoding performance. Apply [here](https://forms.gle/cjGUaSCkxSMuaqih7) by August 15, 2026 to participate in this project.
+
 
