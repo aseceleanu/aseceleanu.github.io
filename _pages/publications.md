@@ -16,7 +16,7 @@ We show that any morphism of combinatorial codes is part of a Galois connection 
 
 We introduce the Seshadri region of a subvariety, a convex region packaging the classical Seshadri constants with respect to every line bundle simultaneously. We develop the theory of Seshadri regions as a measure of positivity along subvarieties and apply it to determine asymptotic Castelnuovo-Mumford regularity for ideal powers and symmetric powers on smooth projective toric varieties.
 
-* [The MacaulayPosets package for Macaulay2](https://arxiv.org/pdf/2510.22843) (with P. Beall, N.Kuzmanovski, Y.O. Li)
+* [The MacaulayPosets package for Macaulay2](https://arxiv.org/pdf/2510.22843) (with P. Beall, N.Kuzmanovski, Y.O. Li) J. Software for Algebra and Geometry.
 
 We introduce the package MacaulayPosets written for the computational algebra system Macaulay2. 
 
@@ -41,7 +41,7 @@ This paper initiates a systematic study for key properties of Artinian Gorenstei
 
 We construct new families of Artinian Gorenstein graded K-algebras of arbitrary codimension having binomial Macaulay dual generators and satisfying the weak or the strong Lefschetz property.
 
-* [Constructions of Macaulay Posets and Macaulay Rings](https://arxiv.org/pdf/2502.15166) (with Polymath)
+* [Constructions of Macaulay Posets and Macaulay Rings](https://arxiv.org/pdf/2502.15166) (with Polymath) The Electronic Journal of Combinatorics 33(2) (2026).
 
 A poset is Macaulay if its partial order and an additional total order interact well. Analogously, a ring is Macaulay if the partial order defined on its monomials by division interacts nicely with any total monomial order. We investigate methods of obtaining new structures through combining Macaulay rings and posets by means of certain operations inspired by topology.
 
@@ -49,7 +49,7 @@ A poset is Macaulay if its partial order and an additional total order interact 
 
 This is an expository work prepared for the Lefschetz Preparatory School in Krakow, May 6-10, 2024. They present the story of the algebraic Lefschetz properties from their origin in algebraic geometry to some recent developments in commutative algebra. 
 
-* [Polarization and Gorenstein liaison](https://arxiv.org/pdf/2406.19985) (with S. Faridi, P. Klein and J. Rajchgot) J. London Math. Soc. 
+* [Polarization and Gorenstein liaison](https://arxiv.org/pdf/2406.19985) (with S. Faridi, P. Klein and J. Rajchgot) J. London Math. Soc. (2) 112 (2025), no. 6, Paper No. e70319.
 
 Given a monomial ideal I and a vertex decomposition of the Stanley-Reisner complex of its polarization P(I), we give conditions that allow for the lifting of an associated basic double G-link of P(I) to a basic double G-link of I itself. We then introduce and study polarization of a Grobner basis of an arbitrary homogeneous ideal and give a relationship between geometric vertex decomposition of a polarization and elementary G-biliaison that is analogous to our result on vertex decomposition and basic double G-linkage.
 
