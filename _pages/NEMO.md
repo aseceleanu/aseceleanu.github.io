@@ -33,7 +33,7 @@ Project mentored by [Dr. Rom&aacute;n Aranda](https://romanaranda123.wordpress.c
 
 See the [NEMO learning seminar](https://docs.google.com/document/d/11gqgl6G-DWORQWY437Ak7bPqMhGx9ReGFb1MkEI_hQw/edit?usp=sharing) talks and topics.
 
-Spring 2026 - Classical and Quantum Error Correcting Codes
+Fall 2026 - Classical and Quantum Error Correcting Codes
 ---------------------------------------------------------------------------------
-
+Project mentored by [Dr. Christine Kelley](https://math.unl.edu/person/christine-kelley/) with graduate assistant [Fares Soufan](https://math.unl.edu/person/fares-soufan/). 
 
