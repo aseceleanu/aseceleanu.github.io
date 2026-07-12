@@ -9,11 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor of mathematics at the University of Nebraska-Lincoln. My research focuses on commutative algebra with a geometric and computational flavor. Please see the menu above for my publications.
-
-I will speak at [Commutative Algebra and Algebraic Geometry in Milan](https://www.caag26.polimi.it/) in 2026.
-
-I will be a plenary speaker at the 2026 [MEGA - Effective Methods in Algebraic Geometry](https://maths.dur.ac.uk/mega2026) at Durham University, UK.
+I am an professor of mathematics at the University of Nebraska-Lincoln. My research focuses on commutative algebra with a geometric and computational flavor. Please see the menu above for my publications.
 
 I am an editor for the [Journal of Commutative Algebra](https://rmmc.asu.edu/jca/jca.html) and [Combinatorial Commutative Algebra](https://mulpress.mcmaster.ca/CCA/). Please consider submitting your relevant work.
 
@@ -39,7 +35,7 @@ I mentor teams of students working in the [Polymath Jr.](https://geometrynyc.wix
 
 I am the founder and director of the [Nebraska Experimental Mathematics and Outreach (NEMO) Lab](https://aseceleanu.github.io/NEMO) affiliated with the [Geometry Labs United](https://geometrylabs.net)  network.
 
-
+<!--
 <a href="https://clustrmaps.com/site/1buz0" title="Visit tracker"><img width="200" align="right" src="//clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=n&d=R3zDHoxAq5OBTy-gfeFs1Qk8RO-eivlObLLkP5suk2g&co=2d78ad&ct=ffffff" /></a>
 
 
@@ -50,5 +46,5 @@ I am the founder and director of the [Nebraska Experimental Mathematics and Outr
   gtag('js', new Date());
   gtag('config', 'G-VX7690VN85');
 </script>
-
+-->
 
