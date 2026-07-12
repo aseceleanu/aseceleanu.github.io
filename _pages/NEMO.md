@@ -35,5 +35,4 @@ See the [NEMO learning seminar](https://docs.google.com/document/d/11gqgl6G-DWOR
 
 Fall 2026 - Classical and Quantum Error Correcting Codes
 ---------------------------------------------------------------------------------
-Project mentored by [Dr. Christine Kelley](https://math.unl.edu/person/christine-kelley/) with graduate assistant [Fares Soufan](https://math.unl.edu/person/fares-soufan/). 
-
+Project mentored by [Dr. Christine Kelley](https://math.unl.edu/person/christine-kelley/) with graduate assistant [Fares Soufan](https://math.unl.edu/person/fares-soufan/). In this project, you'll dive into understanding the relationship between the code, its graph, and its decoding performance.  We will look at simple decoding algorithms, families of codes, and how the graph representation affects performance in different situations.  We will also look at families of codes, both classical and quantum, and try to quantify and characterize structures that affect decoding performance. 
