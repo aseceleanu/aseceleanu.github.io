@@ -35,5 +35,5 @@ I mentor teams of students working in the [Polymath Jr.](https://geometrynyc.wix
 
 I am the founder and director of the [Nebraska Experimental Mathematics and Outreach (NEMO) Lab](https://aseceleanu.github.io/NEMO) affiliated with the [Geometry Labs United](https://geometrylabs.net)  network.
 
-<a href="https://mapmyvisitors.com/web/1c6hh" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=200&t=n&d=sfE__oF-Ba_FSAVF0LhsXmp641tqhkQJWdAVuR_L3ss" /></a>
+<a href="https://mapmyvisitors.com/web/1c6hh" title="Visit tracker"><img align="right" src="https://mapmyvisitors.com/map.png?cl=ffffff&w=200&t=n&d=sfE__oF-Ba_FSAVF0LhsXmp641tqhkQJWdAVuR_L3ss" /></a>
 
