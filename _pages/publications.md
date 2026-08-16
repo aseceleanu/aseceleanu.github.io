@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* [Betti numbers of inductively pierced codes](https://arxiv.org/pdf/2605.24181) (with H. Geller, R. R.G., N. Youngs)
+
+In this paper, we use the notion of polarization to compute Betti numbers of inductively pierced neural codes. We demonstrate how the Betti numbers yield information on the number and type of piercings of the original code.
+This work shows the utility of algebraic invariants of the neural ideal in detecting geometric features of the associated receptive fields.
+
 * [Weighted Veronese rings via convex semigroups](https://arxiv.org/pdf/2603.12441) (with B. Chase, L. Fiorindo, T. Holleben, E. Marangone, T. Nguyen, S. Singh)
 
 We determine properties of two dimensional normal affine semigroup rings, and in particular of weighted Veronese rings, including determinantal presentation, Groebner basis, graded Hilbert series and graded Betti numbers, the structure of their associated graded rings, and their Koszul property.
