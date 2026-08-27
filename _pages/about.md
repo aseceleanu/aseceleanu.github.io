@@ -26,7 +26,7 @@ My Students
 * [Shah Roshan Zamir](https://sroshanzamir2.github.io/index.html) - PhD 2025
 * [Juliann Geraci](https://julianngeraci.github.io) (co-advised with Alex Kunin) - PhD 2026
 * [Ana Podariu](https://aepodariu.github.io/bebsite)
-* [Kara Fagerstrom](https://math.unl.edu/person/kara-fagerstrom/)
+* [Kara Fagerstrom](https://karafagerstrom.github.io)
 * [Ben Huenemann](https://bhuenemann.github.io)
 * [Noah Walker](https://math.unl.edu/person/noah-walker/)
 
