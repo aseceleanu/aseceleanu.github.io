@@ -18,7 +18,7 @@ I am an editor for the [Journal of Commutative Algebra](https://rmmc.asu.edu/jca
 
 My Students
 ========
-*  [Ben Drabkin](https://www.math.unl.edu/~bdrabkin2/) - PhD 2020
+* [Ben Drabkin](https://www.math.unl.edu/~bdrabkin2/) - PhD 2020
 * [Andrew Conner](https://youtu.be/j368pBapgRE) - MA 2020
 * Erica Hopkins (co-advised with Mark Walker) - PhD 2021
 * [Michael DeBellevue](https://mpdebell.expressions.syr.edu) (co-advised with Mark Walker) - PhD 2022
@@ -28,7 +28,7 @@ My Students
 * [Ana Podariu](https://aepodariu.github.io/bebsite)
 * [Kara Fagerstrom](https://karafagerstrom.github.io)
 * [Ben Huenemann](https://bhuenemann.github.io)
-* [Noah Walker](https://math.unl.edu/person/noah-walker/)
+* [Noah Walker](https://noahw314.github.io/)
 
 Undergraduate Activities
 ======
