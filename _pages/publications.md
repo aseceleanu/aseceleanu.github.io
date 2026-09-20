@@ -9,6 +9,11 @@ author_profile: true
 In this paper, we use the notion of polarization to compute Betti numbers of inductively pierced neural codes. We demonstrate how the Betti numbers yield information on the number and type of piercings of the original code.
 This work shows the utility of algebraic invariants of the neural ideal in detecting geometric features of the associated receptive fields.
 
+* [Symbolic Powers and Asymptotic Invariants of GL-Invariant Ideals](https://arxiv.org/pdf/2609.03131) (with S. Bisui)
+
+his work concerns ideals invariant under the action of the group of linear base changes on a generic matrix; we call these GL-invariant ideals. We determine the ordinary powers, their saturations with respect to determinantal ideals, and the symbolic powers of GL-invariant ideals. We give explicit formulas for asymptotic invariants known as (skew) Waldschmidt constants and asymptotic resurgence, which measure the growth of these families and compare the ordinary and symbolic topologies. We also prove that the generalized symbolic Rees algebras associated with these ideals are Noetherian.
+
+
 * [Weighted Veronese rings via convex semigroups](https://arxiv.org/pdf/2603.12441) (with B. Chase, L. Fiorindo, T. Holleben, E. Marangone, T. Nguyen, S. Singh)
 
 We determine properties of two dimensional normal affine semigroup rings, and in particular of weighted Veronese rings, including determinantal presentation, Groebner basis, graded Hilbert series and graded Betti numbers, the structure of their associated graded rings, and their Koszul property.
